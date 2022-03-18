@@ -1,0 +1,23 @@
+.place {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 55fr 57fr;
+    grid-template-rows: auto auto;
+    grid-template-areas: 
+    "place__title place__link"
+    "place__image place__text";
+    gap: 40px 48px;
+}
+
+@media screen and (max-width: 768px) {
+    .place {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto auto auto;
+        grid-template-areas:
+        "place__title"
+        "place__link"
+        "place__image"
+        "place__text";
+        gap: 32px;
+    }
+}

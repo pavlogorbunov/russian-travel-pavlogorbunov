@@ -1,0 +1,14 @@
+.place__link-heading {
+    color: #fff;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.24;
+    margin: 12px 0 0 0;
+    text-decoration: underline;
+    transition: 500ms;
+}
+
+.place__link-heading:hover {
+    color: #FFFFFF80;
+    transition: 500ms;
+}
