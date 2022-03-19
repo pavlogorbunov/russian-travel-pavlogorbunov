@@ -8,4 +8,4 @@
 При выполнении проекта использовались следующие технологии:
 <ul><li>flexbox</li><li>Grid layout</li><li>Адаптивная вёрстка</li><li>Методология БЭМ</li><li>Файловая структура Nested</li></ul>
 <h2>Использование</h2>
-Для просмотра материала откройте файл index.html
+Для просмотра материала откройте файл index.html или <a href="https://pavlogorbunov.github.io/russian-travel-pavlogorbunov/" target="_blank">тык сюда.</a>
