@@ -12,5 +12,6 @@
         margin: 48px 0 24px 0;
         font-size: 14px;
         line-height: 1;
+        align-self: flex-start;
     }
 }
